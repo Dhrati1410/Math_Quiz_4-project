@@ -1,0 +1,37 @@
+body {
+  background-image: url("https://th.bing.com/th/id/R.ee9c713d796706369f690cbbfd9705f8?rik=8WxuK901BMrnKg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fe%2f6%2fa%2f284067.jpg&ehk=0DViHZ2RP57SV%2b79lNfJIqhac1z3UmGibPzsVlJ9Y7w%3d&risl=&pid=ImgRaw&r=0");
+  height: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial;
+  color: rgba(0, 0, 0, 0.658);
+  font-weight: 900;
+}
+
+input[type="text"] {
+  margin: 10px;
+  font-weight: 1;
+  width: 90%;
+}
+
+.btn {
+  background-color: #69c5bfb0;
+  color: rgba(0, 0, 0, 0.822);
+  font-size: 15;
+  margin: 10px;
+}
+
+#output {
+  margin-left: 283px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  background-color: rgba(255, 255, 255, 0.267);
+  height: 250px;
+  border-radius: 30px;
+  width: 550;
+}
+
+#q {
+  margin-top: 35px;
+}
